@@ -1,0 +1,3 @@
+﻿  HelloWorld.cpp
+d:\githubcode\zju-cg\hw\hw4\nurbs\helloworlds\helloworlds\header.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  HelloWorlds.vcxproj -> D:\GithubCode\zju-cg\HW\HW4\nurbs\HelloWorlds\Debug\HelloWorlds.exe

@@ -1,0 +1,4 @@
+﻿  HelloWorld.cpp
+d:\githubcode\zju-cg\hw\hw4\helloworlds\helloworlds\helloworld.cpp(156): warning C4018: “<”: 有符号/无符号不匹配
+d:\githubcode\zju-cg\hw\hw4\helloworlds\helloworlds\helloworld.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+  HelloWorlds.vcxproj -> D:\GithubCode\zju-cg\HW\HW4\HelloWorlds\Debug\HelloWorlds.exe
