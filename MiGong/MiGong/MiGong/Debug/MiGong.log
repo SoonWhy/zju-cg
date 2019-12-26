@@ -1,0 +1,9 @@
+﻿  HERO.cpp
+d:\githubcode\zju-cg\migong\migong\migong\glm.h(13): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  d:\githubcode\zju-cg\migong\migong\migong\hero.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+d:\githubcode\zju-cg\migong\migong\migong\hero.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+d:\githubcode\zju-cg\migong\migong\migong\hero.cpp(258): warning C4101: “i”: 未引用的局部变量
+d:\githubcode\zju-cg\migong\migong\migong\hero.cpp(303): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\githubcode\zju-cg\migong\migong\migong\hero.cpp(312): warning C4101: “i”: 未引用的局部变量
+d:\githubcode\zju-cg\migong\migong\migong\hero.cpp(347): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  MiGong.vcxproj -> D:\GithubCode\zju-cg\MiGong\MiGong\Debug\MiGong.exe

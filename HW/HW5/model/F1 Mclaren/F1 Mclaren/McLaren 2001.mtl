@@ -1,0 +1,328 @@
+# MTL written from /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/McLaren 2001.obj
+newmtl F3MClarenAil_032AvHakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/AilAVMaclaren.jpg
+newmtl F3MClarenGrisclairtextureHakkinen
+Kd 0.665098 0.665098 0.665098
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
+newmtl F3MClarenNoirDDsideHakkinen
+Kd 0.0470588 0.0470588 0.0470588
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl F3MClarenNoirHakkinen
+Kd 0.0470588 0.0470588 0.0470588
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl F3MClarenair_032Box_032LHakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/AirboxLHakkinen.jpg
+newmtl F3MClarenair_032Box_032RHakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/AirboxRHakkinen.jpg
+newmtl F3MClarenbasdecaisHakkinen
+Kd 0.164706 0.164706 0.164706
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl F3MClarencameraHakkinen
+Kd 0.112941 0.112941 0.112941
+Ns 304.437
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.56 0.56 0.56
+newmtl F3MClarencamertextureHakkinen
+Kd 0.666667 0.666667 0.666667
+Ns 64
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.1 0.1 0.1
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/camera.jpg
+newmtl F3MClarenchrome_032antHakkinen
+Kd 0.521569 0.521569 0.521569
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 1.2 1.2 1.2
+newmtl F3MClarenclois_032AV_032gaHakkinen
+Kd 0.762353 0.436078 0.756078
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/CloisAVGAMaclaren.jpg
+newmtl F3MClarencloisAV_032drHakkinen
+Kd 0.602353 0.618039 0.0690196
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/CloisAVGAMaclaren.jpg
+newmtl F3MClarencloisona_032drHakkinen
+Kd 0.341961 0.341961 0.341961
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/cloisonaDRHakkinen.jpg
+newmtl F3MClarencloisona_032gaHakkinen
+Kd 0.341961 0.341961 0.341961
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/cloisonaGAHakkinen.jpg
+newmtl F3MClarendeflectColorHakkinen
+Kd 0.665098 0.665098 0.665098
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
+newmtl F3MClarendeflectDHakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/DeflectDRMaclaren.jpg
+newmtl F3MClarendeflectGHakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/DeflectGAMaclaren.jpg
+newmtl F3MClareneuArriereHakkinen
+Kd 0.694118 0.172549 0.172549
+Ns 256
+d 1
+illum 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl F3MClarenflanDHakkinen
+Kd 0.112941 0.112941 0.112941
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/FlanDmaclaren.jpg
+newmtl F3MClarenflanGHakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/FlanGmaclaren.jpg
+newmtl F3MClarenflap_032avHakkinen
+Kd 0.254118 0.28549 0.574118
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/FlapAVHakkinen.jpg
+newmtl F3MClarenflaps_032AR1Hakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/FlapARmaclaren.jpg
+newmtl F3MClarenflaps_032ARHakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/FlapARmaclaren.jpg
+newmtl F3MClareninterieurHakkinen
+Kd 0.156863 0.156863 0.156863
+Ns 93.7015
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.125 0.125 0.125
+newmtl F3MClareniretroacier1Hakkinen
+Kd 0.665098 0.665098 0.665098
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/retrotextureMaclaren.jpg
+newmtl F3MClarennezDmapHakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/NezmapDmaclarentest.jpg
+newmtl F3MClarennezGmapHakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/NezmapGmaclarentest.jpg
+newmtl F3MClarennezmapHakkinen
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.43 0.43 0.43
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/nezmapHakkinen.jpg
+newmtl F3MClarenplastique_032ntenneHakkinen
+Kd 0.317647 0.317647 0.317647
+Ns 64
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+newmtl F3MClarenpontotoHakkinen
+Kd 0.112941 0.112941 0.112941
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/pontotomaclaren.jpg
+newmtl F3MClarensuspensionsHakkinen
+Kd 0.153725 0.153725 0.153725
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.32 0.32 0.32
+newmtl F3MClarentexturepetitaileronDRHakkinen
+Kd 0.54902 0.54902 0.54902
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/TxturpttaileronDmaclaren.jpg
+newmtl F3MClarentexturepetitaileronGAHakkinen
+Kd 0.54902 0.54902 0.54902
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/TxturpttaileronDmaclaren.jpg
+newmtl F3MclarenJantes2arrows
+Kd 0.0602353 0.0602353 0.0602353
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.52 0.52 0.52
+newmtl F3MclarenJpneuarrier1
+Kd 1 1 1
+Ns 16
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.005 0.005 0.005
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/Ferraripneus.jpg
+newmtl F3MclarenJpneuarrier2
+Kd 1 1 1
+Ns 16
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.005 0.005 0.005
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/Ferraripneus.jpg
+newmtl F3MclarenJpneusavant1
+Kd 1 1 1
+Ns 16
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.005 0.005 0.005
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/Ferraripneus.jpg
+newmtl F3MclarenJpneusavant2
+Kd 1 1 1
+Ns 16
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.005 0.005 0.005
+map_Kd /Users/manapoly/Desktop/Yusup/Models/Land/F1/F1 Mclaren/Ferraripneus.jpg
+newmtl F3Mclarenaerationspneus
+Kd 0.16 0.16 0.16
+Ns 16
+d 0.99
+illum 2
+Ka 0 0 0
+Ks 0.05 0.05 0.05
+newmtl F3fMClarentextureHakkinen
+Kd 0.665098 0.665098 0.665098
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.46 0.46 0.46
+newmtl FMClarenretroglassHakkinen
+Kd 0.356863 0.356863 0.356863
+Ns 16
+d 1
+illum 2
+Ka 0 0 0
+Ks 1 1 1
+newmtl f3Mclarenfreinsglow
+Kd 0.843137 0.494118 0.184314
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl f3Mclarenjantesorange
+Kd 0.665098 0.665098 0.665098
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.49 0.49 0.49
